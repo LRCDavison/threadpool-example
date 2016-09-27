@@ -1,6 +1,8 @@
 public class Job implements Runnable {
     private int jobNumber;
-
+    
+    // Comment added as example of making local changes to update to GitHub repository
+    
     Job (int jobNumber) {
           this.jobNumber = jobNumber;
     }
